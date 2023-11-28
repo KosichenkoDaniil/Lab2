@@ -1,0 +1,73 @@
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\lab 2.exe
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\lab 2.deps.json
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\lab 2.runtimeconfig.json
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\lab 2.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\lab 2.pdb
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Azure.Core.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Azure.Identity.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Humanizer.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.CodeDom.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Text.Json.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\labs\bd\lab 2\lab 2\lab 2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.csproj.AssemblyReference.cache
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.AssemblyInfoInputs.cache
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.AssemblyInfo.cs
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.csproj.CoreCompileInputs.cache
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.csproj.CopyComplete
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.dll
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\refint\lab 2.dll
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.pdb
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\lab 2.genruntimeconfig.cache
+D:\labs\bd\lab 2\lab 2\lab 2\obj\Debug\net6.0\ref\lab 2.dll
